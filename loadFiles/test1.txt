@@ -1,0 +1,4 @@
+10 LET n = 10
+20 PRINT n
+30 INPUT n
+40 PRINT n
